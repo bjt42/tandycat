@@ -1,0 +1,13 @@
+TANDYCAT v0.1 - Tandy sound and video patch for Alley Cat
+---------------------------------------------------------
+
+This patch enables the 3-voice sound and custom colour palette of the PCjr
+version. The custom colour palette also works with EGA and VGA adapters.
+
+Requirements: ALLEYCAT.EXE (61568 bytes) in the same directory as PATCH.BAT
+
+Usage: PATCH (generates TANDYCAT.COM)
+
+Tested on a TL/2 but may work on other models too.
+
+Questions? Get in touch with bjt on vogons.org or the Vintage Computer Forums.
